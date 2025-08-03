@@ -1,5 +1,5 @@
 ## Semantic Mapping in Indoor Embodied AI - A Survey on Advances, Challenges, and Future Directions
-*Sonia Raychaudhuri, Angel X. Chang*
+*[Sonia Raychaudhuri](https://sonia-raychaudhuri.github.io/), [Angel X. Chang](https://angelxuanchang.github.io/)*
 
 ---
 
