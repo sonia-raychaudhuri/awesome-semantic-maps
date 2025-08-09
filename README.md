@@ -145,8 +145,7 @@
 | [Curiosity-driven exploration via latent bayesian surprise](https://ojs.aaai.org/index.php/AAAI/article/view/20743) |
 | [Stronger together: Air-ground robotic collaboration using semantics](https://ieeexplore.ieee.org/abstract/document/9830880/) |
 | [isdf: Real-time neural signed distance fields for robot perception](https://arxiv.org/abs/2204.02296) |
-| [TEACh:
-Task-driven Embodied Agents that Chat](https://arxiv.org/abs/2110.00534) |
+| [TEACh: Task-driven Embodied Agents that Chat](https://arxiv.org/abs/2110.00534) |
 | [Enough is enough: Towards autonomous uncertainty-driven stopping criteria](https://www.sciencedirect.com/science/article/pii/S2405896322010059) |
 | [Towards Accurate Loop Closure Detection in Semantic SLAM With 3D Semantic Covisibility Graphs](https://api.semanticscholar.org/CorpusID:246357678) |
 | [Visual slam: What are the current trends and what to expect?](https://www.mdpi.com/1424-8220/22/23/9297) |
