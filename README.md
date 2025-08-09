@@ -229,8 +229,7 @@
 | [Superglue: Learning feature matching with graph neural networks](http://openaccess.thecvf.com/content_CVPR_2020/html/Sarlin_SuperGlue_Learning_Feature_Matching_With_Graph_Neural_Networks_CVPR_2020_paper.html) |
 | [OrcVIO: Object residual constrained visual-inertial odometry](https://ieeexplore.ieee.org/abstract/document/9341660/) |
 | [Lio-sam: Tightly-coupled lidar inertial odometry via smoothing and mapping](https://ieeexplore.ieee.org/abstract/document/9341176/) |
-| [ALFRED: A Benchmark for Interpreting Grounded
-Instructions for Everyday Tasks](https://arxiv.org/abs/1912.01734) |
+| [ALFRED: A Benchmark for Interpreting Grounded Instructions for Everyday Tasks](https://arxiv.org/abs/1912.01734) |
 | [MultiON: Benchmarking semantic map memory using multi-object navigation](https://proceedings.neurips.cc/paper/2020/hash/6e01383fd96a17ae51cc3e15447e7533-Abstract.html) |
 | [Safe Robot Navigation Via Multi-Modal Anomaly Detection](https://api.semanticscholar.org/CorpusID:210859447) |
 | [A survey of image semantics-based visual simultaneous localization and mapping: Application-oriented solutions to autonomous navigation of mobile robots](https://journals.sagepub.com/doi/abs/10.1177/1729881420919185) |
