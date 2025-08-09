@@ -153,7 +153,7 @@
 | [The revisiting problem in simultaneous localization and mapping: A survey on visual loop closure detection](https://ieeexplore.ieee.org/abstract/document/9780121/) |
 | [Language Understanding for Field and Service Robots in a Priori Unknown Environments](https://ieeexplore.ieee.org/abstract/document/10878387/) |
 | [Clip-nerf: Text-and-image driven manipulation of neural radiance fields](http://openaccess.thecvf.com/content/CVPR2022/html/Wang_CLIP-NeRF_Text-and-Image_Driven_Manipulation_of_Neural_Radiance_Fields_CVPR_2022_paper.html) |
-| Habitat Challenge 2022 |
+| [Habitat Challenge 2022](https://aihabitat.org/challenge/2022/) |
 | [3D-Aware Object Goal Navigation via Simultaneous Exploration and Identification](http://openaccess.thecvf.com/content/CVPR2023/html/Zhang_3D-Aware_Object_Goal_Navigation_via_Simultaneous_Exploration_and_Identification_CVPR_2023_paper.html) |
 | [A survey of visual navigation: From geometry to embodied AI](https://ieeexplore.ieee.org/abstract/document/10577209/) |
 | [Extract free dense labels from clip](https://link.springer.com/chapter/10.1007/978-3-031-19815-1_40) |
