@@ -72,6 +72,7 @@
 | [BEV perception for autonomous driving: State of the art and future perspectives](https://www.sciencedirect.com/science/article/pii/S0957417424019705) |
 | [A Survey of Embodied Learning for Object-Centric Robotic Manipulation](https://link.springer.com/article/10.1007/s11633-025-1542-8) |
 | [Gaussiangrasper: 3d language gaussian splatting for open-vocabulary robotic grasping](https://ieeexplore.ieee.org/abstract/document/10607869/) |
+| [Khronos: A Unified Approach for Spatio-Temporal Metric-Semantic SLAM in Dynamic Environments](https://www.roboticsproceedings.org/rss20/p081.pdf) |
 
 ## 2023
 
@@ -341,6 +342,7 @@
 | [Semantic octree: Unifying recognition, reconstruction and representation via an octree constrained higher order MRF](https://ieeexplore.ieee.org/abstract/document/7139442/) |
 | [Incremental dense semantic stereo fusion for large-scale semantic scene reconstruction](https://ieeexplore.ieee.org/abstract/document/7138983/) |
 | [ElasticFusion: Dense SLAM without a pose graph.](https://roboticsproceedings.org/rss11/p01.pdf) |
+| [SEMAP - a semantic environment mapping framework](https://ieeexplore.ieee.org/document/7324176) |
 
 ## 2014
 
