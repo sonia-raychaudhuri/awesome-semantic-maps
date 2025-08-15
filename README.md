@@ -341,6 +341,7 @@
 | [Semantic octree: Unifying recognition, reconstruction and representation via an octree constrained higher order MRF](https://ieeexplore.ieee.org/abstract/document/7139442/) |
 | [Incremental dense semantic stereo fusion for large-scale semantic scene reconstruction](https://ieeexplore.ieee.org/abstract/document/7138983/) |
 | [ElasticFusion: Dense SLAM without a pose graph.](https://roboticsproceedings.org/rss11/p01.pdf) |
+| [SEMAP - a semantic environment mapping framework](https://ieeexplore.ieee.org/document/7324176) |
 
 ## 2014
 
