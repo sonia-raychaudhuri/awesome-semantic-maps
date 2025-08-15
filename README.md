@@ -73,7 +73,6 @@
 | [A Survey of Embodied Learning for Object-Centric Robotic Manipulation](https://link.springer.com/article/10.1007/s11633-025-1542-8) |
 | [Gaussiangrasper: 3d language gaussian splatting for open-vocabulary robotic grasping](https://ieeexplore.ieee.org/abstract/document/10607869/) |
 | [Khronos: A Unified Approach for Spatio-Temporal Metric-Semantic SLAM in Dynamic Environments](https://www.roboticsproceedings.org/rss20/p081.pdf) |
-| [Clio: Real-time Task-Driven Open-Set 3D Scene Graphs](https://ieeexplore.ieee.org/document/10659066) |
 
 ## 2023
 
